@@ -4,7 +4,6 @@ require 'pry'
 def start_game(player1, player2)
   message = "Hello #{player1} & #{player2}"
   message
-  binding.pry 
 end
 
 
